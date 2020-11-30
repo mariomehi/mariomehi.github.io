@@ -1,1 +1,277 @@
 theme: jekyll-theme-merlot
+
+1
+
+# Site settings
+
+2
+
+title: Rob Hinds
+
+3
+
+twitter_username: rob_hinds
+
+4
+
+name: Rob Hinds
+
+5
+
+​
+
+6
+
+#User specific content
+
+7
+
+#Links that will appear in the navbar
+
+8
+
+primarylinks:
+
+9
+
+ - title: Blog
+
+10
+
+   url: http://automateddeveloper.blogspot.com/
+
+11
+
+ - title: GitHub
+
+12
+
+   url: https://github.com/robhinds
+
+13
+
+ - title: DZone
+
+14
+
+   url: https://dzone.com/users/899489/rhinds.html
+
+15
+
+​
+
+16
+
+#Any buzzword skills you want to include
+
+17
+
+skills:
+
+18
+
+ - Groovy
+
+19
+
+ - Spring MVC
+
+20
+
+ - Spring Boot
+
+21
+
+​
+
+22
+
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+
+23
+
+blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
+
+24
+
+​
+
+25
+
+#Work experience is required
+
+26
+
+roles:
+
+27
+
+ - title: Senior Engineer
+
+28
+
+   start: 2012
+
+29
+
+   end: Ongoing
+
+30
+
+   employer: Covestor
+
+31
+
+   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. &lt;br/&gt; I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
+
+32
+
+​
+
+33
+
+#Education is required
+
+34
+
+education:
+
+35
+
+ - level: Bachelor of Science (B.Sc.)
+
+36
+
+   date: 2003
+
+37
+
+   subject: Artificial Intelligence and Computer Science
+
+38
+
+   school: University of Birmingham
+
+39
+
+​
+
+40
+
+#This section is optional (as is the image link below)
+
+41
+
+coursera:
+
+42
+
+   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+
+43
+
+   courses:
+
+44
+
+    - title: Functional Programming Principles in Scala
+
+45
+
+      link: https://www.coursera.org/course/progfun
+
+46
+
+      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+
+47
+
+      date: September 16, 2013
+
+48
+
+​
+
+49
+
+#List of interesting Github repo/projects to include - optional
+
+50
+
+github:
+
+51
+
+ - robhinds/twitter-sentiment-analysis
+
+52
+
+ - robhinds/spring-reactor-twitter
+
+53
+
+ - robhinds/microservices
+
+54
+
+​
+
+55
+
+#Stackoverflow flair is optional
+
+56
+
+stackoverflow:
+
+57
+
+   profileurl: http://stackoverflow.com/users/258813/rhinds
+
+58
+
+   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+
+59
+
+​
+
+60
+
+#Mobile apps section is optional
+
+61
+
+apps:
+
+62
+
+ - name: Chuck the Quiz
+
+63
+
+   platform: Android
+
+64
+
+   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
+
+65
+
+   description: A basic early Android app (open sourced)
+
+66
+
+​
+
+67
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+
+68
+
+additionalinfo: |
+
+69
+
+   &lt;strong&gt;JVM&lt;/strong&gt;: I am experienced in a variety o
